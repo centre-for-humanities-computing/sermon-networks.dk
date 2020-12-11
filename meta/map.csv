@@ -1,0 +1,325 @@
+Entity,Index,ID
+Jesus,1,Jesus/Jesus Kristus
+Jesus Kristus,1,Jesus/Jesus Kristus
+Jesu,1,Jesus/Jesus Kristus
+Kristus Jesus,1,Jesus/Jesus Kristus
+Siger Jesus,1,Jesus/Jesus Kristus
+jesus,1,Jesus/Jesus Kristus
+Jesus Krist,1,Jesus/Jesus Kristus
+Herren Jesus,1,Jesus/Jesus Kristus
+Ham Jesus,1,Jesus/Jesus Kristus
+Peter Jesus,1,Jesus/Jesus Kristus
+Jesus Peter,1,Jesus/Jesus Kristus
+Johannes Jesus,1,Jesus/Jesus Kristus
+Jesus velsigner,1,Jesus/Jesus Kristus
+Johannes,2,Johannes
+Johannes ’,2,Johannes
+Johannes –,2,Johannes
+Johannes -,2,Johannes
+Johannes Jesus,2,Johannes
+Simon Peter,3,Peter/Simon Peter
+Simon Peters,3,Peter/Simon Peter
+Peters,3,Peter/Simon Peter
+Peter –,3,Peter/Simon Peter
+Peter ”,3,Peter/Simon Peter
+Disciplen Peter,3,Peter/Simon Peter
+” Peter,3,Peter/Simon Peter
+Peter,3,Peter/Simon Peter
+Peter Jesus,3,Peter/Simon Peter
+Jesus Peter,3,Peter/Simon Peter
+Maria,4,Maria
+Marias,4,Maria
+Maria –,4,Maria
+Maria ”,4,Maria
+Mariæ,4,Maria
+Maria den,4,Maria
+Paulus,5,Paulus/Saulus
+Saulus,5,Paulus/Saulus
+Pauli,5,Paulus/Saulus
+Kristus,6,Kristus
+Krist,6,Kristus
+Kristi,6,Kristus
+Josefs,7,Josef
+Josef –,7,Josef
+Josef,7,Josef
+Lazarus,8,Lazarus
+Lazarus ’,8,Lazarus
+Lazarus –,8,Lazarus
+Lazarus opvækkelse,8,Lazarus
+Jacobs,9,Jakob
+Jakob,9,Jakob
+Jakobs,9,Jakob
+Jacob,9,Jakob
+Abram,10,Abraham
+Fader Abraham,10,Abraham
+Abraham,10,Abraham
+Abrahams,10,Abraham
+Abraham –,10,Abraham
+Lukas,11,Lukas
+Lukas ’,11,Lukas
+Lukas –,11,Lukas
+Martha,12,Martha
+Marta,12,Martha
+Martha –,12,Martha
+” Martha,12,Martha
+Johannes Døberen,13,Johannes Døberen
+Johannes Døberens,13,Johannes Døberen
+Johannes Døber,13,Johannes Døberen
+Døberen,13,Johannes Døberen
+Johannes døberen,13,Johannes Døberen
+Johannes Døbers,13,Johannes Døberen
+Johannes døber,13,Johannes Døberen
+Johannes Døberen –,13,Johannes Døberen
+døberen,13,Johannes Døberen
+Johannes døberens,13,Johannes Døberen
+Adam,14,Adam
+Adams,14,Adam
+Thomas,15,Thomas
+Thomas ’,15,Thomas
+Thomas –,15,Thomas
+Matthæus,16,Matthæus
+Mattæus,16,Matthæus
+David,17,David/Kong David
+Davids,17,David/Kong David
+Kong David,17,David/Kong David
+Kong Davids,17,David/Kong David
+Esajas,18,Esajas
+Profeten Esajas,18,Esajas
+Simon,19,Simon
+Simons,19,Simon
+Simon den,19,Simon
+Zakarias,20,Zakarias
+Zakarias ’,20,Zakarias
+Zacharias,20,Zakarias
+Kong Herodes,21,Herodes
+Herodes,21,Herodes
+Herodes ’,21,Herodes
+kong Herodes,21,Herodes
+Herodes –,21,Herodes
+Djævlen,22,Djævelen
+Djævelen,22,Djævelen
+Jonas,23,Jonas
+Jonas ’,23,Jonas
+Eva,24,Eva
+Eva –,24,Eva
+Abel,25,Abel
+Abels,25,Abel
+Abel –,25,Abel
+Elias,26,Elias
+Elias –,26,Elias
+Elias ’,26,Elias
+tolderen Levi,27,Levi/Levi Tolderen
+Levi,27,Levi/Levi Tolderen
+Levi Alfæus,27,Levi/Levi Tolderen
+Faderen,28,Faderen/Fader
+Fader,28,Faderen/Fader
+Faderen ”,28,Faderen/Fader
+Maria Magdalene,29,Maria Magdalene
+Maria Magdalenes,29,Maria Magdalene
+Maria Magdalena,29,Maria Magdalene
+Marie Magdalene,29,Maria Magdalene
+Guds,30,Gud
+Gud,30,Gud
+Gud Herren,30,Gud
+Englen Gabriel,31,Englen Gabriel/Gabriel
+englen Gabriel,31,Englen Gabriel/Gabriel
+Gabriel,31,Englen Gabriel/Gabriel
+Jeremias,32,Jeremias
+Profeten Jeremias,32,Jeremias
+Satan,33,Satan
+Satans,33,Satan
+Pilatus,34,Pontius Pilatus
+Pontius Pilatus,34,Pontius Pilatus
+Menneskesønnen,35,Menneskesøn/Menneskesønnen
+Menneskesøn,35,Menneskesøn/Menneskesønnen
+Sara,36,Sara
+Sarah,36,Sara
+Noa,37,Noa
+Noah,37,Noa
+Jobs,38,Job
+Job,38,Job
+Augustus,39,Augustus/Kejser Augustus
+Kejser Augustus,39,Augustus/Kejser Augustus
+Augustus ’,39,Augustus/Kejser Augustus
+Immanuel,40,Immanuel
+Immanuel –,40,Immanuel
+Immanuel ”,40,Immanuel
+Salomon,41,Salomon/Salomo
+Salomo,41,Salomon/Salomo
+Daniels,42,Daniel
+Daniel,42,Daniel
+Nikodemus,43,Nikodemus
+Nicodemus,43,Nikodemus
+Mikael,44,Mikael/Michael
+Michael,44,Mikael/Michael
+Tolderen,45,Tolderen
+tolderen,45,Tolderen
+Natan,46,Natan/Nathan
+Nathan,46,Natan/Nathan
+samaritaneren,47,Samaritaneren
+Samaritaneren,47,Samaritaneren
+farisæerne,48,Farisæerne
+Farisæerne,48,Farisæerne
+Farisæeren,49,Farisæeren
+farisæeren,49,Farisæeren
+Hyrderne,50,Hyrderne
+hyrderne,50,Hyrderne
+hyrden,51,Hyrden
+Hyrden,51,Hyrden
+Vismændene,52,Vismændene
+vismændene,52,Vismændene
+Elisabeth,53,Elisabeth
+Elisabeths,53,Elisabeth
+Anna,54,Anna
+Annas,54,Anna
+salmisten,55,Salmisten
+Salmisten,55,Salmisten
+Luther,56,Martin Luther
+Martin Luther,56,Martin Luther
+Martin Luthers,56,Martin Luther
+Grundtvig,57,N.F.S. Grundtvig
+Grundtvigs,57,N.F.S. Grundtvig
+Kierkegaard,58,Søren Kierkegaard
+Søren Kierkegaard,58,Søren Kierkegaard
+Søren Kierkegaards,58,Søren Kierkegaard
+Kirkegaard,58,Søren Kierkegaard
+Brorson,59,H.A. Brorson
+Brorsons,59,H.A. Brorson
+Adolf Hitler,60,Adolf Hitler
+Hitlers,60,Adolf Hitler
+Hitler,60,Adolf Hitler
+Lucia,61,Lucia
+Lucias,61,Lucia
+Kaj Munk,62,Kaj Munk
+Kaj Munks,62,Kaj Munk
+Bonhoeffer,63,Dietrich Bonhoeffer
+Dietrich Bonhoeffer,63,Dietrich Bonhoeffer
+Johannes Møllehave,64,Johannes Møllehave
+Møllehave,64,Johannes Møllehave
+H.C . Andersen,65,H.C . Andersen/Andersen
+H.C . Andersens,65,H.C . Andersen/Andersen
+HC Andersen,65,H.C . Andersen/Andersen
+. Andersen,65,H.C . Andersen/Andersen
+. Andersens,65,H.C . Andersen/Andersen
+Andersen,65,H.C . Andersen/Andersen
+Andersens,65,H.C . Andersen/Andersen
+Thomas Kingo,66,Thomas Kingo
+Kingo,66,Thomas Kingo
+Nelson Mandela,67,Nelson Mandela
+Mandela,67,Nelson Mandela
+Benny Andersens,68,Benny Andersen
+Benny Andersen,68,Benny Andersen
+Lewis,69,C.S. Lewis/Lewis
+CS Lewis,69,C.S. Lewis/Lewis
+Muhammed,70,Muhammed/Mohammed
+Mohammed,70,Muhammed/Mohammed
+Frans,71,Frans af Assisi/Frans
+Frans af Assisi,71,Frans af Assisi/Frans
+Søren Ulrik Thomsen,72,Søren Ulrik Thomsen
+Digteren Søren Ulrik Thomsen,72,Søren Ulrik Thomsen
+Arne Haugen Sørensen,73,Arne Haugen Sørensen
+Haugen Sørensen,73,Arne Haugen Sørensen
+Arne Haugen,73,Arne Haugen Sørensen
+Desmond,74,Desmond Tutu
+Desmond Tutu,74,Desmond Tutu
+Plys,75,Peter Plys
+Peter Plys,75,Peter Plys
+Augustin,76,Augustin
+Kirkefaderen Augustin,76,Augustin
+Breivik,77,Anders Breivik
+Anders Breivik,77,Anders Breivik
+Anders Behring Breivik,77,Anders Breivik
+Astrid Lindgrens,78,Astrid Lindgren
+Astrid Lindgren,78,Astrid Lindgren
+van Gogh,79,Vincent van Gogh
+Van Gogh,79,Vincent van Gogh
+Vincent Van Gogh,79,Vincent van Gogh
+Johannes Johansen,80,Johannes Johansen
+Johannes Johansens,80,Johannes Johansen
+Hagens,81,Erik Hagens
+Erik Hagens,81,Erik Hagens
+Karl Barth,82,Karl Barth
+Barth,82,Karl Barth
+Mao,83,Mao Zedong
+mao,83,Mao Zedong
+Halfdan Rasmussens,84,Halfdan Rasmussen
+Halfdan Rasmussen,84,Halfdan Rasmussen
+Barack Obama,85,Barack Obama
+Obama,85,Barack Obama
+Valjean,86,Jean Valjean
+Jean Valjean,86,Jean Valjean
+Dostojevskijs,87,Fjodor Dostojevskij
+Dostojevskij,87,Fjodor Dostojevskij
+Jakob Knudsens,88,Jakob Knudsen
+Jacob Knudsen,88,Jakob Knudsen
+Jakob Knudsen,88,Jakob Knudsen
+Balthasar,89,Balthazar
+Balthazar,89,Balthazar
+Selma Lagerlöfs,90,Selma Lagerlöf
+Selma Lagerlöf,90,Selma Lagerlöf
+Lars Lilholt,91,Lars Lilholt
+Lilholt,91,Lars Lilholt
+Sankt Peter,92,Sankt Peter
+Sankt Peder,92,Sankt Peter
+Nicolaus,93,Nicolaus/Nikolaus
+Nikolaus,93,Nicolaus/Nikolaus
+Hausgaard,94,Niels Hausgaard
+Niels Hausgaard,94,Niels Hausgaard
+Pippi,95,Pippi Langstrømpe
+Pippi Langstrømpe,95,Pippi Langstrømpe
+Moder Teresa,96,Moder Theresa
+Mother Theresa,96,Moder Theresa
+Peter Madsens,97,Peter Madsen
+Peter Madsen,97,Peter Madsen
+Eichmann,98,Adolf Eichmann
+Adolf Eichmann,98,Adolf Eichmann
+Karl Ove,99,Karl Ove Knausgård
+Karl Ove Knausgaard,99,Karl Ove Knausgård
+Konstantin,100,Kejser Konstantin
+Kejser Konstantin,100,Kejser Konstantin
+Jan Kjærstad,101,Jan Kjærstad
+Jan Kjærstads,101,Jan Kjærstad
+Georg Duckwitz,102,George Duckwitz
+Duckwitz,102,George Duckwitz
+Ida Jessens,103,Ida Jessen
+Ida Jessen,103,Ida Jessen
+Albert Einstein,104,Albert Einstein
+Einstein,104,Albert Einstein
+Osama bin Laden,105,Osama Bin Laden
+Osama Bin Laden,105,Osama Bin Laden
+Storm,106,Storm P/Storm
+Storm P,106,Storm P/Storm
+Kristian,107,Christian/Kristian
+Christian,107,Christian/Kristian
+søren,108,Søren
+Søren,108,Søren
+Kaj,109,Kay/Kaj
+Kay,109,Kay/Kaj
+Stefan,110,Stefan
+Stefans,110,Stefan
+Niels,111,Niels/Nils
+Nils,111,Niels/Nils
+Jonatan,112,Jonathan/Jonatan
+Jonathan,112,Jonathan/Jonatan
+Lars,113,Lars
+Lars ’,113,Lars
+Mathias,114,Mattias/Mathias
+Mattias,114,Mattias/Mathias
+Hanna,115,Hanna/Hannah
+Hannah,115,Hanna/Hannah
+Klaus,116,Klaus/Claus
+Claus,116,Klaus/Claus
+Sofus,117,Sofus/Sophus
+Sophus,117,Sofus/Sophus
+Sonia,118,Sonja/Sonia
+Sonja,118,Sonja/Sonia
+Karl,119,Karl/Carl
+Carl,119,Karl/Carl
+Jane,120,Jane
+Janes,120,Jane
+Victor,121,Viktor/Victor
+Viktor,121,Viktor/Victor
+gartneren,122,Gartneren
+Gartneren,122,Gartneren
+Konfirmanderne,123,Konfirmanderne
+konfirmanderne,123,Konfirmanderne
