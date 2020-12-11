@@ -2,7 +2,7 @@
 
 This repository contains code and repo in relation the following publication:
 
-Agersnap, A, Kristensen-McLachlan, R.D., and Johansen, K.H. (TBC). 'Unveiling the character gallery - A social network analysis of 11,955 Danish sermons', TBC.
+Agersnap, A, Kristensen-McLachlan, R.D., and Johansen, K.H. (TBC). "*Unveiling the character gallery - A social network analysis of 11,955 Danish sermons*", TBC.
 
 In this article, we present the results of a network analysis performed on named entities extracted from a corpus of 11,995 Danish sermons.
 
