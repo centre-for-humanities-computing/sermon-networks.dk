@@ -12,7 +12,7 @@ All code used in the article can be found in the folder ```src```. All code is w
 
 The is presented for evaluative purposes only. These scripts would require substantial refactoring in order to be considered production-ready!
 
-The results of the final script in ```src``` is a weighted edgelist, which is to then be read into the network visualisation software (Gephi)[https://gephi.org/].
+The results of the final script in ```src``` is a weighted edgelist, which is to then be read into the network visualisation software [Gephi](https://gephi.org/).
 
 ## Output
 
