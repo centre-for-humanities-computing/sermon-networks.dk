@@ -1,6 +1,6 @@
 # Studying sermons in the Danish national church
 
-This repository contains code and repo in relation the following publication:
+This repository contains code and data in relation the following publication:
 
 Agersnap, A, Kristensen-McLachlan, R.D., & Johansen, K.H. (2022). "*Unveiling the character gallery - A social network analysis of 11,955 Danish sermons*", Tenemos, [Edition TBC].
 
